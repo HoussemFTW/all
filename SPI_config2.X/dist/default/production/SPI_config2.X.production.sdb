@@ -1,0 +1,93 @@
+[p GLOBOPT AUTOSTATIC IEEE_FLT IEEE_DBL LFSROK EMI_WORD ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 18F252 ]
+[d frameptr 4065 ]
+"4 C:\Program Files\Microchip\xc8\v2.50\pic\sources\c99\common\fleq.c
+[v ___fleq __fleq `(b  1 e 0 0 ]
+"62 C:\Program Files\Microchip\xc8\v2.50\pic\sources\c99\common\float.c
+[v ___ftpack __ftpack `(f  1 e 4 0 ]
+"86 C:\Program Files\Microchip\xc8\v2.50\pic\sources\c99\common\ftadd.c
+[v ___ftadd __ftadd `(f  1 e 4 0 ]
+"54 C:\Program Files\Microchip\xc8\v2.50\pic\sources\c99\common\ftdiv.c
+[v ___ftdiv __ftdiv `(f  1 e 4 0 ]
+"62 C:\Program Files\Microchip\xc8\v2.50\pic\sources\c99\common\ftmul.c
+[v ___ftmul __ftmul `(f  1 e 4 0 ]
+"19 C:\Program Files\Microchip\xc8\v2.50\pic\sources\c99\common\ftsub.c
+[v ___ftsub __ftsub `(f  1 e 4 0 ]
+"10 C:\Program Files\Microchip\xc8\v2.50\pic\sources\c99\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"245
+[v ___flsub __flsub `(d  1 e 4 0 ]
+"11 C:\Program Files\Microchip\xc8\v2.50\pic\sources\c99\common\sprcdiv.c
+[v ___fldiv __fldiv `(d  1 e 4 0 ]
+"8 C:\Program Files\Microchip\xc8\v2.50\pic\sources\c99\common\sprcmul.c
+[v ___flmul __flmul `(d  1 e 4 0 ]
+"15 C:\Program Files\Microchip\xc8\v2.50\pic\sources\c99\common\Umul32.c
+[v ___lmul __lmul `(ul  1 e 4 0 ]
+"91 C:\Program Files\Microchip\xc8\v2.50\pic\sources\c99\common\Umul64.c
+[v ___omul __omul `(uo  1 e 8 0 ]
+"12 C:\Users\Derouiche\MPLABXProjects\SPI_config2.X\newmain.c
+[v _main main `(v  1 e 1 0 ]
+"24
+[v _SPI_Slave_Init SPI_Slave_Init `(v  1 e 1 0 ]
+"197 C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/PIC18Fxxxx_DFP/1.6.159/xc8\pic\include\proc\pic18f252.h
+[v _PORTB PORTB `VEuc  1 e 1 @3969 ]
+"1011
+[v _TRISB TRISB `VEuc  1 e 1 @3987 ]
+"3428
+[v _SSPBUF SSPBUF `VEuc  1 e 1 @4041 ]
+"5052
+[v _BF BF `VEb  1 e 0 @32312 ]
+"5148
+[v _CKE CKE `VEb  1 e 0 @32318 ]
+"5151
+[v _CKP CKP `VEb  1 e 0 @32308 ]
+"5232
+[v _GIE GIE `VEb  1 e 0 @32663 ]
+"5580
+[v _PCFG0 PCFG0 `VEb  1 e 0 @32264 ]
+"5583
+[v _PCFG1 PCFG1 `VEb  1 e 0 @32265 ]
+"5586
+[v _PCFG2 PCFG2 `VEb  1 e 0 @32266 ]
+"5589
+[v _PCFG3 PCFG3 `VEb  1 e 0 @32267 ]
+"5595
+[v _PEIE PEIE `VEb  1 e 0 @32662 ]
+"5790
+[v _SMP SMP `VEb  1 e 0 @32319 ]
+"5826
+[v _SSPEN SSPEN `VEb  1 e 0 @32309 ]
+"5829
+[v _SSPIE SSPIE `VEb  1 e 0 @31979 ]
+"5832
+[v _SSPIF SSPIF `VEb  1 e 0 @31987 ]
+"5838
+[v _SSPM0 SSPM0 `VEb  1 e 0 @32304 ]
+"5841
+[v _SSPM1 SSPM1 `VEb  1 e 0 @32305 ]
+"5844
+[v _SSPM2 SSPM2 `VEb  1 e 0 @32306 ]
+"5847
+[v _SSPM3 SSPM3 `VEb  1 e 0 @32307 ]
+"5850
+[v _SSPOV SSPOV `VEb  1 e 0 @32310 ]
+"6063
+[v _TRISA5 TRISA5 `VEb  1 e 0 @31893 ]
+"6102
+[v _TRISC3 TRISC3 `VEb  1 e 0 @31907 ]
+"6105
+[v _TRISC4 TRISC4 `VEb  1 e 0 @31908 ]
+"6108
+[v _TRISC5 TRISC5 `VEb  1 e 0 @31909 ]
+"12 C:\Users\Derouiche\MPLABXProjects\SPI_config2.X\newmain.c
+[v _main main `(v  1 e 1 0 ]
+{
+"22
+} 0
+"24
+[v _SPI_Slave_Init SPI_Slave_Init `(v  1 e 1 0 ]
+{
+"51
+} 0

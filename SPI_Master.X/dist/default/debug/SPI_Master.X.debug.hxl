@@ -1,0 +1,48 @@
+### HEXMate logfile and output summary ###
+
+### Command-line arguments ###
+ C:\Users\DEROUI~1\AppData\Local\Temp\xcAs410.\driver_tmp_3.o
+ -Odist/default/debug\SPI_Master.X.debug.hex
+ -logfile=dist/default/debug\SPI_Master.X.debug.hxl
+ -addressing=1
+ -find=010F@0-0x7FFF/2wtMOVLB#15
+ -break=300000
+
+### OP Code find / replace / delete results ###
+ Search results for "MOVLB 15" (010Fh & FFFFh): (-find=010F@0-0x7FFF/2wtMOVLB#15)
+  No occurrences found.
+
+### Memory Usage ###
+ Input file ranges:
+  0h - 5h		(C:\Users\DEROUI~1\AppData\Local\Temp\xcAs410.\driver_tmp_3.o)
+  600h - 6A7h		(C:\Users\DEROUI~1\AppData\Local\Temp\xcAs410.\driver_tmp_3.o)
+  300000h - 300003h		(C:\Users\DEROUI~1\AppData\Local\Temp\xcAs410.\driver_tmp_3.o)
+  300006h - 300007h		(C:\Users\DEROUI~1\AppData\Local\Temp\xcAs410.\driver_tmp_3.o)
+ Unused ranges:
+  6h - 5FFh
+  6A8h - 2FFFFFh
+  300004h - 300005h
+
+### Hex Memory Map ###
+ Legend:
+  -- = Unused memory
+  H1 = Input file             (C:\Users\DEROUI~1\AppData\Local\Temp\xcAs410.\driver_tmp_3.o)
+----------------------------------------------------------
+         | 00 01 02 03 04 05 06 07 08 09 0A 0B 0C 0D 0E 0F
+----------------------------------------------------------
+00000000 | H1 H1 H1 H1 H1 H1 -- -- -- -- -- -- -- -- -- --
+----------------------------------------------------------
+00000600 | H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1
+00000610 | H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1
+00000620 | H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1
+00000630 | H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1
+00000640 | H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1
+00000650 | H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1
+00000660 | H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1
+00000670 | H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1
+00000680 | H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1
+00000690 | H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1
+000006A0 | H1 H1 H1 H1 H1 H1 H1 H1 -- -- -- -- -- -- -- --
+----------------------------------------------------------
+00300000 | H1 H1 H1 H1 -- -- H1 H1 -- -- -- -- -- -- -- --
+00300010 | --
